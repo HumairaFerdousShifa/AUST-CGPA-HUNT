@@ -1,0 +1,17 @@
+﻿Build started 1/8/2017 10:51:15 AM.
+     1>Project "C:\Users\ridwa\OneDrive\documents\visual studio 2010\Projects\AUST CGPA HUnt\AUST CGPA HUnt\AUST CGPA HUnt.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\AUST CGPA HUnt.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         AUST CGPA HUnt.vcxproj -> C:\Users\ridwa\onedrive\documents\visual studio 2010\Projects\AUST CGPA HUnt\Debug\AUST CGPA HUnt.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\AUST CGPA HUnt.unsuccessfulbuild".
+         Touching "Debug\AUST CGPA HUnt.lastbuildstate".
+     1>Done Building Project "C:\Users\ridwa\OneDrive\documents\visual studio 2010\Projects\AUST CGPA HUnt\AUST CGPA HUnt\AUST CGPA HUnt.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10
